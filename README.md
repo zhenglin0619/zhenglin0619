@@ -7,7 +7,8 @@
 <p align="center">
   <b>Senior at Boston University</b> <br>
   Applied Mathematics major · Computer Science minor <br>
-  Research @ Department of Mathematics & Statistics
+  Research @ Department of Mathematics & Statistics <br>
+  Personal Web: https://zhenglin.netlify.app/
 </p>
 
 <p align="center">
@@ -62,7 +63,8 @@ I am currently seeking opportunities to grow in:
 
 ### 📫 Contact
 **Email: zlwang@bu.edu** <br>
-**Linkedin: www.linkedin.com/in/zhenglin-wang**
+**Linkedin: www.linkedin.com/in/zhenglin-wang** <br>
+**Personal Website: https://zhenglin.netlify.app/**
 
 <h3 align="center">
   <b>Thanks for visiting my profile!</b>
