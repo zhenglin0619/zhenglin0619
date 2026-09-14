@@ -1,13 +1,13 @@
 ## Hi, I'm Zhenglin! 👋 
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Boston_University_wordmark.svg" width="220" alt="Boston University" />
+  <img src="images/northwestern-logo.svg" width="500" alt="Northwestern University" />
 </p>
 
 <p align="center">
-  <b>Senior at Boston University</b> <br>
-  Applied Mathematics major · Computer Science minor <br>
-  Research @ Department of Mathematics & Statistics <br>
+  Master of Science in <br>
+  <b> Machine Learning and Data Science (MLDS) </b><br>
+  at Northwestern University <br>
   Personal Web: https://zhenglin.netlify.app/
 </p>
 
@@ -62,7 +62,7 @@ I am currently seeking opportunities to grow in:
 ---
 
 ### 📫 Contact
-**Email: zlwang@bu.edu** <br>
+**Email: zhenglin0619@gmail.com** <br>
 **Linkedin: www.linkedin.com/in/zhenglin-wang** <br>
 **Personal Website: https://zhenglin.netlify.app/**
 
