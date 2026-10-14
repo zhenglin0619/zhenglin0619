@@ -26,11 +26,11 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,matlab,java,mysql,html,css,js,latex,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,matlab,java,html,css,js,latex,vscode,github,git" />
 </p>
 
 **Languages:**
-`Python` `R` `Java` `MATLAB` `SQL` `HTML` `CSS` `JavaScript` `LaTeX`
+`Python` `R` `SQL` `Java` `MATLAB` `HTML` `CSS` `JavaScript` `LaTeX`
 
 **Data Analytics & Visualization:**
 `Pandas` `NumPy` `SciPy` `MatplotLib` `Seaborn` `Excel`
