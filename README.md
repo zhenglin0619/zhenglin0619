@@ -38,7 +38,7 @@ Developed and deployed a full-stack travel application featuring structured data
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,sklearn,postgres,mysql,mongodb,java,js,ts,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,r,java,sklearn,pytorch,postgres,mysql,mongodb,supabase,docker,git,github,vscode" />
 </p>
 
 **Programming:** Python · SQL · R · Java · TypeScript
